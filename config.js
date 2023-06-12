@@ -7,11 +7,11 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 import moment from 'moment-timezone' 
 
-global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
-  ['50499698072', '💫 Mystic - Collaborator 1 💫', true],
-  ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
-  ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
+mundial _ propietario  = [
+  [ '525634990524' , DEVIBOT] 
+  [ '50499698072' , '💫 Mystic - Colaborador 1 💫' , cierto ]
+  [ '51940617554' , '💫 Mystic - Colaborador 2 💫' , cierto ],5
+  [ '51996089079' , '💫 Mystic - Colaborador 3 💫' , cierto +],
   ['593959425714', '💫 Mystic - Collaborator 4 💫', true],
   ['50246028932', '💫 Mystic - Collaborator 5 💫', true],  
   ['5212412377467', '💫 Mystic - Collaborator 6 💫', true],
@@ -53,9 +53,9 @@ global.año = d.toLocaleDateString('es', { year: 'numeric' })
 global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true })
 //*****************************
 global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝`
-global.gt = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.mysticbot = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
+mundial  _  gt   =   '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★
+mundial_mysticbot  = ' ★ 𝚃𝚑𝚎  𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★' 
+mundial _ md  = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 global.waittt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
